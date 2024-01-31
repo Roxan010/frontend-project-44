@@ -1,2 +1,2 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Roxan010/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Roxan010/frontend-project-44/actions)
+[![Actions Status](https://github.com/Roxan010/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Roxan010/frontend-project-44/actions)curl https://npmjs.org/install.sh | sh
